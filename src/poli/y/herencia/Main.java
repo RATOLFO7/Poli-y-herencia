@@ -8,7 +8,6 @@ package poli.y.herencia;
  *
  * @author yursd
  */
-// GestorDeInventarioCLI.java
 
 // Main.java
 
